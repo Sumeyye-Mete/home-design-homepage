@@ -6,7 +6,7 @@ Welcome to my web page design,  where I've used HTML and SCSS
 
 Here are a couple of screenshots from my project:
 
-![](/assets/img/Screenshot-desktop.png)
+![](/images/Screenshot-desktop.png)
 ## Technologies Used
 - HTML
 -SCSS
