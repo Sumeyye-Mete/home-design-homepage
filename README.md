@@ -14,4 +14,4 @@ Here are a couple of screenshots from my project:
 
 =>git clone https://github.com/Sumeyye-Mete/home-design-homepage.git
 
-=> live site URL 
+=> live site URL https://sumeyye-mete.github.io/home-design-homepage/
